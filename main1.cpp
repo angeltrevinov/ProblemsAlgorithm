@@ -1,7 +1,7 @@
 /*
   Angel Odiel Treviño Villanueva
   A01336559
-  Examen Practico: Problema 2 Fecha: 4/Mayo Materia: Analisis y Diseño de Algoritmos
+  Problema 2 Fecha: 4/Mayo Materia: Analisis y Diseño de Algoritmos
 */
 
 #include<iostream>
